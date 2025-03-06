@@ -1,0 +1,125 @@
+
+table.2{
+	border-bottom: 2px solid black;
+	color: black;
+	background-color: lightgray;
+	font-family: "arial", "verdana", "sans-serif";
+	text-transform: capitalize;
+	font-size: 100%;
+}
+td{
+	border: 2px solid blue;
+	padding: 10px /*10px 10px 10px*/;
+	background-color: white;
+}
+tr{
+	border: 3px solid black;
+	padding: 15px /*10px 10px 10px*/;
+	background-color: lightgray;
+	text-align: center;
+	font-family: "arial", "verdana", "sans-serif" ;
+}
+td.wee{
+	border: 3px solid blue;
+	padding: 15px /*10px 10px 10px*/;
+	background-color: lightblue;
+	text-align: center;
+}
+th{
+
+	text-align: left;
+	border-bottom: 2px solid black;
+	padding: 15px;
+	color: white;
+	background-color: blue;
+	font-family: "arial", "verdana", "sans-serif";
+	font-size: 150%;
+	height: 3em;
+	width: 3em;
+	
+
+	
+}
+th:hover{
+	background-color: gray;
+	color: white;
+}
+th.active{
+	background-color: #000145;
+	color: white;
+}
+ol{
+	font-family: "arial", "verdana", "sans-serif";
+}
+h1{
+	background-color: blue;
+	font-family: "arial", "verdana", "sans-serif";
+	text-transform: uppercase;
+	font-size: 350%;
+	box-shadow: black;
+	text-align: center;
+	color: white;
+	margin-top: 10px;
+	text-shadow: 5px 5px 10px black;
+	overflow: hidden;
+}
+h3{
+	background-color: blue;
+	font-family: "arial", "verdana", "sans-serif";
+	text-transform: uppercase;
+	font-size: 200%;
+	box-shadow: black;
+	text-align: left;
+	color: white;
+	margin-top: 10px;
+	text-shadow: 5px 5px 10px black;
+	text-indent: 10px;
+}
+h4{
+	background-color: blue;
+	font-family: "arial", "verdana", "sans-serif";
+	text-transform: uppercase;
+	font-size: 150%;
+	box-shadow: black;
+	text-align: left;
+	color: white;
+	margin-top: 10px;
+	text-shadow: 5px 5px 10px black;
+	text-indent: 10px;
+}
+p{
+	font-family: "arial", "verdana", "sans-serif";
+	border-style: solid;
+	border-color: blue;
+	border-width: 2px 3px 3px 3px;
+	background-color: white;
+	padding: 5px 5px 5px 5px;
+
+}
+ol{
+	font-family: "arial", "verdana", "sans-serif";
+	border-style: solid;
+	border-color: blue;
+	border-width: 2px 3px 3px 3px;
+	background-color: white;
+	padding: 5px 5px 5px 25px;
+}
+
+a{
+	color: white;
+	text-decoration: none;
+	text-shadow: 5px 5px 10px black;
+	text-transform: uppercase;
+	word-wrap: break-word;
+}
+body{
+background-color: black;
+}
+fieldset{
+	background-color: blue;
+	color: white;
+	font-family:  "arial", "verdana", "sans-serif";
+}
+
+
+
